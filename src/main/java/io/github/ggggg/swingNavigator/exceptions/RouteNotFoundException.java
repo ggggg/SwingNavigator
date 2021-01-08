@@ -1,4 +1,4 @@
-package com.ido.exceptions;
+package io.github.ggggg.swingNavigator.exceptions;
 
 public class RouteNotFoundException extends RuntimeException {
 }

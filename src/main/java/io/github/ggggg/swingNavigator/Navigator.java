@@ -1,8 +1,8 @@
-package com.ido;
+package io.github.ggggg.swingNavigator;
 
-import com.ido.interfaces.IRouteEvent;
-import com.ido.exceptions.RouteNotFoundException;
-import com.ido.interfaces.IRoute;
+import io.github.ggggg.swingNavigator.interfaces.IRouteEvent;
+import io.github.ggggg.swingNavigator.exceptions.RouteNotFoundException;
+import io.github.ggggg.swingNavigator.interfaces.IRoute;
 
 import javax.swing.*;
 import java.awt.*;

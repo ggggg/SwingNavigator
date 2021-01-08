@@ -1,4 +1,4 @@
-package com.ido.interfaces;
+package io.github.ggggg.swingNavigator.interfaces;
 
 import javax.swing.*;
 
